@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/FirstPerson/Blueprints/BP_Char.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C0/QO9T4CHIMDHFQ9H6MC3J9O.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/FirstPerson/Blueprints/Light.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/FirstPerson/Blueprints/BP_Light.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/FirstPerson/Blueprints/BP_LighSwitch.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/VT/SBQQUOQBT3R4KBQAGLGWUQ.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9H/IPWD60LVYM8LU0RY76W5W4.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/A1/STJGNIKYPVYR7FAKZ1ZE93.uasset",
+				"C:/Users/Game Center Student/Documents/Level Design/First person/Firstpersonscript/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/L7/IFGJ0IV4QIURHNOZNYJUU1.uasset"
+			]
+		}
+	]
+}
