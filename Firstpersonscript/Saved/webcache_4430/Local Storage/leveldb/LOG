@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 2023/03/29-13:53:40.187 1724 Creating DB C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Unreal Scripts/Unreal_Scripts/Firstpersonscript/Saved/webcache_4430\Local Storage\leveldb since it was missing.
 2023/03/29-13:53:40.201 1724 Reusing MANIFEST C:/Users/batni/Documents/NYU/Spring 2023/Level Design/Unreal Scripts/Unreal_Scripts/Firstpersonscript/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+=======
+2023/03/28-07:00:13.968 1050 Reusing MANIFEST C:/Users/Game Center Student/Documents/Level Design/Unreal Scripts/Unreal_Scripts/Firstpersonscript/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/03/28-07:00:13.977 1050 Recovering log #3
+2023/03/28-07:00:13.978 1050 Reusing old log C:/Users/Game Center Student/Documents/Level Design/Unreal Scripts/Unreal_Scripts/Firstpersonscript/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes
